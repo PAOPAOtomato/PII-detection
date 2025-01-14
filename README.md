@@ -100,4 +100,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 ### Author
 **PAOPAOtomato**  
-For any inquiries or suggestions, please contact [author_email@example.com](mailto:author_email@example.com).
+For any inquiries or suggestions, please contact [sunr21@wfu.edu](mailto:sunr21@wfu.edu).
